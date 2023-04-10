@@ -1,2 +1,2 @@
-# Ritu-s-Fitness
+# Ritu's-Fitness
 A gym website
